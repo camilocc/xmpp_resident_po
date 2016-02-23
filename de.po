@@ -10,7 +10,7 @@ msgtext ""
 msgid "%name, help information is grouped in:\n!hlp util\n!hlp info\n!hlp config\n and\n!hlp media"
 msgtext "%name, Hilfeinformationen werden in gruppiert:\n!hlp util\n!hlp info\n!hlp config\n und\n!hlp media"
 
-msgid "%name, commands help info were grouped in:\n!commands info\n!commands config\n and\n!commands media""
+msgid "%name, commands help info were grouped in:\n!commands info\n!commands config\n and\n!commands media"
 msgtext "";
 
 msgid " settings commands are:"
@@ -49,27 +49,24 @@ msgtext ""
 msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech."
 msgtext ""
 
-msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech.";
-
 msgid " information retrieval commands are:"
 msgtext ""
         
 msgid "!ide \"platform\"\n!hlp \"command\"\n!cmdtips\n!commands\n!about\n!vaimepassarobot?\n and\n!credits" 		
 msgtext ""
 
-msgid "%name, , For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgid "%name, For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
 msgtext ""
 
-msgid "%name, , For Linux Software Development, ca2 uses latest version of Ubuntu LTS, Code::Blocks and SmartSVN."
+msgid "%name, For Linux Software Development, ca2 uses latest version of Ubuntu LTS, Code::Blocks and SmartSVN."
 msgtext ""
 
 
-msgid "%name, , At MacOS, ca2 uses El Capitan, XCode and SmartSVN."
+msgid "%name, At MacOS, ca2 uses El Capitan, XCode and SmartSVN."
 msgtext ""
 
 msgid "%name, for iOS development, ca2 uses Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator and trying to convince co-founder to borrow iOS device."
 msgtext ""
-
 
 msgid "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
 msgtext ""
@@ -83,35 +80,31 @@ msgid "%name, For the exclamation mark, if an existing command is not found, an 
 msgtext ""
 
 
-msgid "%name, , ca2 é uma framework e conjunto de bibliotecas escritas em linguagem C++ para ajudar desenvolvedores criarem grandes aplicativos para usuários."
+msgid "%name, ca2 é uma framework e conjunto de bibliotecas escritas em linguagem C++ para ajudar desenvolvedores criarem grandes aplicativos para usuários."
 msgtext ""
 
 
-msgid "%name, , ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
+msgid "%name, ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
 msgtext ""
 
 
-msgid "%name, user info user thumb, user country and user flag are supplied by xmetrix code, web api and web server. Thank you, Vapaamies for Russian translation. Thank you, andremommert for some German translation. Remarks many translations still Google.";
+msgid "%name, user info user thumb, user country and user flag are supplied by xmetrix code, web api and web server. Thank you, Vapaamies for Russian translation. Thank you, andremommert for some German translation. Remarks many translations still Google."
 msgtext ""
-
 
 msgid "%name, your language is set to %topic"
 msgtext ""
 
 
-msgid "%name, your language was set to \"%topic\"";
+msgid "%name, your language was set to \"%topic\""
 msgtext ""
-
 
 msgid "%name, your time zone was set to UTC %topic"
 msgtext ""
 
-
 msgid "%name, your time zone was set to \"%topic\"."
 msgtext ""
 
-
-msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not).";
+msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not)."
 msgtext ""
 
 msgid "%name, your time zone is set to %topic"
@@ -127,7 +120,7 @@ msgid "and your country was set to %topic"
 msgtext ""
 
 msgid "%name , Currently only the client will be made available."
-msgtext "%name, No momento somente o aplicativo cliente será disponibilizado.";
+msgtext "%name, No momento somente o aplicativo cliente será disponibilizado."
 
 msgid "No files in the playlist"
 msgtext ""
@@ -141,28 +134,34 @@ msgtext ""
 msgid "See you %name!"
 msgtext ""
       
-msgid "%name, entered!! (Subset of commands enabled).";
+msgid "%name, entered!! (Subset of commands enabled)."
 msgtext ""
 
 msgid "%name you are connected!";
 msgtext ""
 
-msgid "Boas Vindas a você " + strName + "! :) Você pode digitar exclamação seguido de Enter para obter ajuda."
-msgtext ""
-
 msgid "Welcome %name! :) You can type exclamation mark and then press enter to get some help."
 msgtext ""
 
-msgid "Hi %name! Welcome! What brings you here today?";
+msgid "Hi %name! Welcome! What brings you here today?"
+msgtext ""
 
-msgid "%name is back! :)";
+msgid "%name is back! :)"
+msgtext ""
 
-msgid "You're welcome, %name! Thank you for following!";
+msgid "You're welcome, %name! Thank you for following!"
+msgtext ""
             
-msgid "Opening Rick Roll for you all new followers!!";
+msgid "Opening Rick Roll for you all new followers!!"
+msgtext ""
 
-msgid "Opening Rick Roll for you!!";
+msgid "Opening Rick Roll for you!!"
+msgtext ""
 
 msgid "%name , Opening Rick Astley - Never Gonna Give You Up!"
+msgtext ""
 
-msgid "Opening Rick Astley - Never Gonna Give You Up!";
+msgid "Opening Rick Astley - Never Gonna Give You Up!"
+msgtext ""
+
+
