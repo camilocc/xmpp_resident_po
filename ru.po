@@ -40,7 +40,7 @@ msgtext ""
 msgid "%name, say uses Windows Narrator to speak the supplied text."
 msgtext ""
 
-msgid "%name, ide <platform> display information about tools used for development of ca2 framework and apps at the specified platform. <platform> maybe: windows (Desktop), linux, macos, ios, android and winrt."
+msgid "%name, ide <platform> display information about tools used for development of ca2 framework and apps at the specified platform. <platform> may be: windows (Desktop), linux, macos, ios, android and winrt."
 msgtext ""
           
 msgid "%name, setlang <language code and/or two-letter country code> sets user preferred language. Communication is preferrably done using specified language or country."
