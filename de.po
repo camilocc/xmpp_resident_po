@@ -88,7 +88,7 @@ msgid "%name, ca2 is an all-purpose multi-platform framework and set of librarie
 msgtext ""
 
 
-msgid "%name, user info user thumb, user country and user flag are supplied by xmetrix code, web api and web server. Thank you, Vapaamies for Russian translation. Thank you, andremommert for some German translation. Remarks many translations still Google."
+msgid "%name, user info user thumb, user country and user flag are supplied by xmetrix code, web api and web server. Thank you, Vapaamies for Russian translation. Thank you, r00tkiller for French translation. Thank you, catherinacortega for Dutch translation. Thank you, andremommert for some German translation. Remarks many translations still Google."
 msgtext ""
 
 msgid "%name, your language is set to %topic"
