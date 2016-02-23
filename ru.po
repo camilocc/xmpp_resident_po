@@ -1,5 +1,5 @@
 msgid "%name, Some supported commands !hlp, !about and !vaimepassarobot?"
-msgtext ""
+msgtext "%name, поддерживаются следующие команды !hlp, !about и !vaimepassarobot?"
 
 msgid "%name, song not playing or not in record."
 msgtext ""
